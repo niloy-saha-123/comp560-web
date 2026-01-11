@@ -37,3 +37,11 @@ This is a list of activities that are recommended to be completed as part of joi
 ## Do your first research experiment
 
   * Instructions for this are on the separate [First Research Experiment](first-research-expt/first-research-expt.md) page
+
+## Wandb familiarization
+
+* Sign up at [wandb.ai/](https://wandb.ai/). Make sure you are a member of our team `dickinson-comp560-sp26`. (You should have received an invitation for this. If not, you can request one from the instructors.)
+* Do a tutorial available from Wandb. Make sure you view can results from a run of their tutorial code.
+* Re-run your [First Research Experiment](first-research-expt/first-research-expt.md), this time using Wandb for logging. 
+  - In the config file, set `wandb_log = True` and provide meaningful values for `wandb_project` and `wandb_run_name`.
+* View the results at [wandb.ai/](https://wandb.ai/). Ensure you can see a graph of the training loss decreasing as the number of iterations increases. Add this graph to the report you made on your first research experiment.
