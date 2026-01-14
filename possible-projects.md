@@ -19,3 +19,4 @@ In no particular order:
   - This is a complex question that depends on the size of the models we are using. So the analysis needs to employ a range of different sizes for the models.
 * [This is more of a general challenge than a project.] What is the most interesting or complex problem you can solve using a character-level LLM that can be trained in 3 minutes on a laptop?
 * Make a poster describing some of your work in this course and present it at the Computer Science Symposium, Tuesday April 28, from 12:00-1:15 in the Tome Library.
+* Propose a new paper to read and discuss.
